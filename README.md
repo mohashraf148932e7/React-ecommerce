@@ -6,7 +6,8 @@
 
 Click below to watch the video:
 
-[![Watch the video](https://drive.google.com/file/d/1vuoGtEUTGZDYeKwqI89WkBWUldy1kg_z/view?usp=sharing)](https://drive.google.com/file/d/1c0I5SEUN14c1x6imoxGYQ22LN66DTKAk/view?usp=sharing)
+[![Watch the video](https://drive.google.com/uc?export=preview&id=1vuoGtEUTGZDYeKwqI89WkBWUldy1kg_z
+)](https://drive.google.com/file/d/1c0I5SEUN14c1x6imoxGYQ22LN66DTKAk/view?usp=sharing)
 
 
 
