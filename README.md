@@ -2,6 +2,13 @@
 
 **Furniture Haven** is your ultimate destination for stylish, high-quality furniture. Built with **React, Redux Toolkit, and React Bootstrap**, our platform offers a wide selection of furniture pieces to furnish your home with elegance and comfort.
 
+## 🎥 **Watch Our Introduction Video!**
+
+Click below to watch the video:
+
+[![Video Thumbnail]([https://via.placeholder.com/600x400.png](https://drive.google.com/file/d/1vuoGtEUTGZDYeKwqI89WkBWUldy1kg_z/view?usp=sharing))]([https://github.com/your-username/your-repository/raw/main/video.mp4](https://drive.google.com/file/d/1c0I5SEUN14c1x6imoxGYQ22LN66DTKAk/view?usp=sharing))
+
+
 ## 🎉 **Why You'll Love It**
 
 ### For Furniture Shoppers:
