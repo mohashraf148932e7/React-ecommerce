@@ -6,7 +6,8 @@
 
 Click below to watch the video:
 
-[![Video Thumbnail]([https://via.placeholder.com/600x400.png](https://drive.google.com/file/d/1vuoGtEUTGZDYeKwqI89WkBWUldy1kg_z/view?usp=sharing))]([https://github.com/your-username/your-repository/raw/main/video.mp4](https://drive.google.com/file/d/1c0I5SEUN14c1x6imoxGYQ22LN66DTKAk/view?usp=sharing))
+[![Watch the video](https://drive.google.com/file/d/1vuoGtEUTGZDYeKwqI89WkBWUldy1kg_z/view?usp=sharing)](https://drive.google.com/file/d/1c0I5SEUN14c1x6imoxGYQ22LN66DTKAk/view?usp=sharing)
+
 
 
 ## 🎉 **Why You'll Love It**
