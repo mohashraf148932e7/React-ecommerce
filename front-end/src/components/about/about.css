@@ -1,0 +1,39 @@
+.about_section {
+  background-color: #43915057;
+  color: #ffffff;
+  min-height: 100vh;
+  padding: 50px 0; 
+}
+
+  
+  .about_section .heading_container {
+    margin-bottom: 45px;
+  }
+
+  
+  /* .about_section .row {
+    display: flex;
+    justify-content: space-between;
+  } */
+  
+  .about_section .img-box img {
+    max-width: 100%;
+  }
+  
+  .about_section .detail-box h3 {
+    font-weight: bold;
+    color: darkgreen;
+    
+    
+  }
+  
+  .about_section .detail-box p {
+    margin-top: 15px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+
+  
+  

@@ -1,0 +1,119 @@
+/* Reset and Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arial", sans-serif;
+}
+
+body {
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Container */
+.products-page {
+  padding: 4rem;
+  margin-top: 8rem;
+}
+
+/* Button Styles */
+.btn-back {
+  background: #b88e2f;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn-back:hover {
+  background: #a67c2a;
+}
+
+.btn-add {
+  border: 1px solid #b88e2f;
+  color: #b88e2f;
+  padding: 0.8rem 1.5rem;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn-add:hover {
+  background: #b88e2f;
+  color: #fff;
+}
+
+.btn-action {
+  padding: 0.5rem;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.btn-action:hover {
+  transform: scale(1.1);
+}
+
+/* Table Styles */
+.table {
+  margin-top: 1.5rem;
+}
+
+.table th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.table-hover tbody tr:hover {
+  background-color: rgba(0, 0, 0, 0.075);
+}
+
+/* Product Image */
+.product-image {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+/* Action Icons */
+.action-icon {
+  font-size: 1.2rem;
+  transition: transform 0.2s ease;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .btn-back,
+  .btn-add {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  .table th,
+  .table td {
+    font-size: 0.9rem;
+  }
+
+  .product-image {
+    width: 40px;
+    height: 40px;
+  }
+
+  .btn-action {
+    width: 35px;
+    height: 35px;
+  }
+
+  h1 {
+    font-size: 1.5rem !important; /* Ensure the title fits on smaller screens */
+  }
+}

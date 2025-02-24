@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Arizona",
+      "price": 170900,
+      "category": "Dinning Rooms",
+      "quantity": 4,
+      "imgUrl": "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0219-Edit_FullSize_S1080.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Ice",
+      "price": 133900,
+      "category": "L-shape, Living Rooms",
+      "quantity": 1,
+      "imgUrl": "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Ice-Dining-room-1-1-scaled-1.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Imperial",
+      "price": 249000,
+      "category": "Bedrooms",
+      "quantity": 0,
+      "imgUrl": "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/0dbee77c-1220-43a8-8db6-8b807f6554fb.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "hosam",
+      "email": "hosam@gmail.com",
+      "password": "hosam123",
+      "role": "admin"
+    },
+    {
+      "id": "f5ed",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "role": "admin",
+      "confirmPassword": "admin"
+    },
+    {
+      "id": "f245",
+      "username": "customer",
+      "email": "customer@gmail.com",
+      "password": "customer",
+      "role": "customer",
+      "confirmPassword": "customer"
+    }
+  ]
+}
